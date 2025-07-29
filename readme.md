@@ -8,7 +8,6 @@
 
 Site published at: https://rokasime.github.io/PicMatchEasy/
 
-Design: !by mentorė Gabija
 
 ## 🎮 How to Play
 
